@@ -27,7 +27,7 @@
   },
   "peerDependencies": {
     "selenium-webdriver": "2.x",
-    "chai": "1.x"
+    "chai": ">=1.x"
   },
   "dependencies": {
     "q": "~1.1.2",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "phantomjs": "^1.9.7-1",
     "mocha": "~2.0.1",
-    "chai": "~1.10.0",
+    "chai": "~3.5.0",
     "selenium-webdriver": "~2.44.0"
   },
   "engines": {
